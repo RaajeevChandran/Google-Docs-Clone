@@ -3,6 +3,7 @@ import Icon from '@material-tailwind/react/Icon'
 import Head from 'next/head'
 import Image from 'next/image';
 import Header from '../components/Header'
+
 function Home() {
   return (
     <div>

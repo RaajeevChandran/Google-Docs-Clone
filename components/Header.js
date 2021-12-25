@@ -47,7 +47,7 @@ import React from 'react'
     const CircleAvatar = () => (
         <img 
         loading='lazy' 
-        className='cursor-pointer h-12 w-12 rounded-full ml-2' 
+        className='hidden md:inline-flex cursor-pointer h-12 w-12 rounded-full ml-2' 
         src="https://lh3.googleusercontent.com/ogw/ADea4I4k2w4Mhie2StNXeg6klntKAGk-J16kmunI6micQuM=s83-c-mo" 
         alt="" 
         />
